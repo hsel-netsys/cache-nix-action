@@ -1,6 +1,6 @@
 [submodule "deps/actions/toolkit"]
 	path = deps/actions/toolkit
-	url = https://github.com/nix-community/cache-nix-action
+	url = https://github.com/hsel-netsys/cache-nix-action
 	branch = actions-toolkit
 [submodule "deps/buildjet/toolkit"]
 	path = deps/buildjet/toolkit
